@@ -1,0 +1,3 @@
+let jogos = ["Zenless Zone Zero", "Grand Theft Auto 6", "Neverness to Everness"]
+jogos.push ("Honkai Star Rail")
+console.log (jogos)
